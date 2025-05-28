@@ -52,4 +52,48 @@ An integrated face recognition system with live streaming, user face registratio
 ![image](https://github.com/user-attachments/assets/238b902e-0a72-4c97-a279-d69cc20e0d75)
 
 
+## 🏠 Home Page
+Introduction about the application
 
+Navigation sidebar with routes to each page
+
+📷 Add Screenshot Here
+
+## 📝 Face Registration Page (/registerpage)
+Upload face image and assign name
+
+Saves image to registered_faces/ and metadata in SQLite
+
+Also updates the face_registration_guide.txt used by the assistant
+
+📷 Add Screenshot Here
+
+## 🎥 Live Face Recognition (/livestream)
+Starts webcam live feed
+
+Detects faces using Haar Cascades
+
+Recognizes with face_recognition and overlays name boxes
+
+📷 Add Screenshot Here
+
+## 🧠 Q&A Assistant (/assistant)
+Ask questions about face registration, system usage, or steps
+
+Powered by LangChain Retrieval-Augmented Generation (RAG)
+
+Context from your face_registration_guide.txt
+
+📷 Add Screenshot Here
+
+## 🗃️ Face Database Page (/databasepage)
+Lists all registered users
+
+Displays image, name, and database info
+
+Allows manual delete from UI (optional)
+
+📷 Add Screenshot Here
+
+
+![image](https://github.com/user-attachments/assets/747502d8-1aaf-415b-b226-f22067b5c442)
