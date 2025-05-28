@@ -90,8 +90,18 @@ Lists all registered users
 
 Displays image, name, and database info
 
-Allows manual delete from UI (optional)
-
-
 
 ![image](https://github.com/user-attachments/assets/747502d8-1aaf-415b-b226-f22067b5c442)
+
+
+
+
+
+
+
+## "This project is a part of a hackathon run by https://katomaran.com"
+
+
+
+
+
