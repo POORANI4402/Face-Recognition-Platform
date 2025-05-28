@@ -48,7 +48,7 @@ Introduction about the application
 
 Navigation sidebar with routes to each page
 
-![Screenshot (463)](https://github.com/user-attachments/assets/033df0d2-8063-45ea-80e0-cc6f7091d39f)
+![Screenshot (464)](https://github.com/user-attachments/assets/488e24e4-d447-45df-8c8e-2af9c588ca4a)
 
 ## 📝 Face Registration Page (/registerpage)
 Upload face image and assign name
@@ -66,7 +66,7 @@ Detects faces using Haar Cascades
 
 Recognizes with face_recognition and overlays name boxes
 
-📷 Add Screenshot Here
+![image](https://github.com/user-attachments/assets/d3dd04f2-0267-43ae-998c-c940c15ce23f)
 
 ## 🧠 Q&A Assistant (/assistant)
 Ask questions about face registration, system usage, or steps
@@ -74,6 +74,8 @@ Ask questions about face registration, system usage, or steps
 Powered by LangChain Retrieval-Augmented Generation (RAG)
 
 Context from your face_registration_guide.txt
+
+![image](https://github.com/user-attachments/assets/fcb2d713-9d21-4fd4-88ee-c193b5cce06c)
 
 
 ## 🗃️ Face Database Page (/databasepage)
@@ -83,6 +85,11 @@ Displays image, name, and database info
 
 Allows manual delete from UI (optional)
 
-📷 Add Screenshot Here
+![image](https://github.com/user-attachments/assets/6f62cbe2-f927-4bdf-881d-45f89c4dfa36)
 
+
+![image](https://github.com/user-attachments/assets/f0688941-7b91-4020-b1ac-c938853f8c57)
+
+
+## “This project is a part of a hackathon run by https://katomaran.com ”
 
