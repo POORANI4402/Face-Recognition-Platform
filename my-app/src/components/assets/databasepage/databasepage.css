@@ -1,0 +1,119 @@
+.database-container {
+  padding: 30px;
+  background-color: #f9f9f9;
+}
+
+.face-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 20px;
+}
+
+.face-card {
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  text-align: center;
+  padding: 10px;
+}
+
+.face-img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.face-details h5 {
+  margin-top: 10px;
+  font-weight: 600;
+}
+
+.timestamp {
+  font-size: 0.85rem;
+  color: #666;
+}
+
+
+
+.app-container {
+  display: flex;
+  height: 100vh;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.sidebar {
+  width: 220px;
+  background-color: #111827;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 20px 10px;
+}
+
+.sidebar-header h2 {
+  color: #fff;
+  text-align: center;
+}
+
+.sidebar-menu .menu-item {
+  display: flex;
+  align-items: center;
+  color: #d1d5db;
+  padding: 10px;
+  text-decoration: none;
+  border-radius: 5px;
+  margin: 5px 0;
+}
+
+.sidebar-menu .menu-item:hover,
+.sidebar-menu .menu-item.active {
+  background-color: #374151;
+  color: #fff;
+}
+
+.sidebar-footer {
+  text-align: center;
+  margin-top: auto;
+  padding-top: 10px;
+  font-weight: bold;
+}
+
+.database-container {
+  flex-grow: 1;
+  padding: 30px;
+  background-color: #f9fafb;
+  overflow-y: auto;
+}
+
+.face-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.face-card {
+  background: #fff;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  padding: 10px;
+  width: 200px;
+  text-align: center;
+}
+
+.face-img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 4px;
+}
+
+.face-details {
+  margin-top: 8px;
+}
+
+.timestamp {
+  color: #6b7280;
+  font-size: 0.85rem;
+}
