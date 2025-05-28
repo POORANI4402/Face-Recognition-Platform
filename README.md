@@ -40,9 +40,16 @@ An integrated face recognition system with live streaming, user face registratio
 ---
 
 ## 📦 Folder Structure
-
 ![image](https://github.com/user-attachments/assets/2fd013ce-e4bf-4da7-b031-26ae84b992cf)
 
+
+
+## 📦 Architectural Diagram
+
+![image](https://github.com/user-attachments/assets/fee32754-6571-438d-a5bb-bebfba235e91)
+
+
+![image](https://github.com/user-attachments/assets/238b902e-0a72-4c97-a279-d69cc20e0d75)
 
 
 
