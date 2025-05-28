@@ -4,13 +4,10 @@ An integrated face recognition system with live streaming, user face registratio
 
 ---
 
-
 ## Demo Video 
-
-
+(https://drive.google.com/file/d/1Ymytddy6ONpLkWp6S_CYaOc02qpSfveV/view?usp=sharing)
 
 ## Architectue Diagram
-
 ![image](https://github.com/user-attachments/assets/3b98dfb6-ea86-4539-aae3-e4fc363d57d1)
 
 ![image](https://github.com/user-attachments/assets/3080035d-7d59-444a-8617-ecd8306264c5)
